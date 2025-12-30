@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Backup files
+*.bak
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Contact data files
+contacts.json
+contacts_backup_*.json
+contacts.csv
+
+# PDF and export files
+*.pdf
+
+# Test reports / coverage
+.coverage
+htmlcov/
+
+# IDE/Editor settings
+.vscode/
+.idea/
