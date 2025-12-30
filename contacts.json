@@ -1,0 +1,26 @@
+{
+    "Lucky": {
+        "phone": "9654651680",
+        "email": "lucky@gmail.com",
+        "address": "JNTU",
+        "group": "Family",
+        "created_at": "2025-12-30T18:45:35.421697",
+        "updated_at": "2025-12-30T18:45:35.421697"
+    },
+    "MLP": {
+        "phone": "9635824817",
+        "email": "hberkj@gmail.com",
+        "address": "HYD",
+        "group": "Friend",
+        "created_at": "2025-12-30T18:46:19.978659",
+        "updated_at": "2025-12-30T18:46:19.978659"
+    },
+    "fgsh": {
+        "phone": "9630147852",
+        "email": "edafrgthg@gmail.com",
+        "address": "HYD",
+        "group": "Work",
+        "created_at": "2025-12-30T18:55:02.881483",
+        "updated_at": "2025-12-30T18:55:02.881483"
+    }
+}
